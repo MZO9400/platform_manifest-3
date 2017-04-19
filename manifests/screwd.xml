@@ -12,7 +12,7 @@
            fetch="https://github.com/ScrewdAOSP" />
 
   <!-- Screw'd Repos -->
-  <project path="platform_manifest" name="platform_manifest" remote="screwd" revision="n7x-caf3" />
+  <project path="platform_manifest" name="platform_manifest" remote="screwd" revision="n7x-caf" />
   <project path="art" name="art" remote="screwd" revision="n7x" />
   <project path="bionic" name="bionic" remote="screwd" revision="n7x-caf" />
   <project path="bootable/recovery" name="bootable_recovery" remote="screwd" revision="n7x" />
