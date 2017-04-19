@@ -7,9 +7,15 @@
 
   <project path="device/qcom/common" name="android_device_qcom_common" remote="du" revision="n7x-caf" />
   <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="du" revision="n7x-caf" />
+  <project path="external/e2fsprogs" name="android_external_e2fsprogs" remote="du" revision="n7x-caf" />
+  <project path="external/f2fs-tools" name="android_external_f2fs-tools" remote="du" revision="n7x-caf" />
   <project path="external/libnetfilter_conntrack" name="android_external_libnetfilter_conntrack" remote="du" revision="n7x-caf" />
   <project path="external/libnfc-nci" name="android_external_libnfc-nci" remote="du" revision="n7x-caf" />
   <project path="external/libnfnetlink" name="android_external_libnfnetlink" remote="du" revision="n7x-caf" />
+  <project path="external/llvm" name="android_external_llvm" remote="du" revision="n7x" />
+  <project path="external/tinyalsa" name="android_external_tinyalsa" remote="du" revision="n7x-caf" />
+  <project path="frameworks/opt/net/ims" name="android_frameworks_opt_net_ims" remote="du" revision="n7x" />
+  <project path="frameworks/rs" name="android_frameworks_rs" remote="du" revision="n7x" />
   <project path="hardware/qcom/audio/default" name="android_hardware_qcom_audio" remote="du" revision="n7x-caf" />
   <project path="hardware/qcom/audio-caf/msm8974" name="android_hardware_qcom_audio" remote="du" revision="n7x-caf-8974" />
   <project path="hardware/qcom/audio-caf/msm8994" name="android_hardware_qcom_audio" remote="du" revision="n7x-caf-8994" />
@@ -27,6 +33,7 @@
   <project path="hardware/qcom/media-caf/msm8996" name="android_hardware_qcom_media" remote="du" revision="n7x-caf-8996" />
   <project path="hardware/qcom/power" name="android_hardware_qcom_power" remote="du" revision="n7x" />
   <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="du" revision="n7x" />
+  <project path="libcore" name="android_libcore" remote="du" revision="n7x" />
   <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="du" revision="n7x-caf" />
   <project path="vendor/qcom/opensource/dataservices" name="android_vendor_qcom_opensource_dataservices" remote="du" revision="n7x-caf" />
   <project path="vendor/qcom/opensource/dpm" name="android_vendor_qcom_opensource_dpm" remote="du" revision="n7x-caf" />
