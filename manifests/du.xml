@@ -27,7 +27,7 @@
   <project path="hardware/qcom/media-caf/msm8996" name="android_hardware_qcom_media" remote="du" revision="n7x-caf-8996" />
   <project path="hardware/qcom/power" name="android_hardware_qcom_power" remote="du" revision="n7x" />
   <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="du" revision="n7x" />
-  <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="du" revision="n7x-caf" />
+  <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="du" revision="n-caf" />
   <project path="vendor/qcom/opensource/dataservices" name="android_vendor_qcom_opensource_dataservices" remote="du" revision="n7x-caf" />
   <project path="vendor/qcom/opensource/dpm" name="android_vendor_qcom_opensource_dpm" remote="du" revision="n7x-caf" />
   <project path="vendor/qcom/opensource/time-services" name="android_vendor_qcom_opensource_time-services" remote="du" revision="n7x-caf" />
